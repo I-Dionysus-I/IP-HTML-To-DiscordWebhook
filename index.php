@@ -1,5 +1,5 @@
 <?php
-$webhook = "https://discord.com/api/webhooks/977935516555169872/oEITIyKVlHry2B_PRxwDk0pRA8G5xBmSNXuRuJIKXvmz7ELv8iT8Y5P3wCdbQCF3k4a_";
+$webhook = "INSERT WEBHOOK HERE";
 $username = "IP Results";
 $timestamp = date("c", strtotime("now"));
 
