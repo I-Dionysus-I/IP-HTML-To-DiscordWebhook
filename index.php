@@ -99,12 +99,6 @@ curl_close( $ch );
 <body>
     <h1> Ip Logging test</h1>
 
-    <div class="alert">
-        <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
-        <strong>WARNING</strong>
-        <BR>
-        <BR> BY USING THIS WEBSITE YOU AGREE YOUR IP TO BE COLLECTED TO ANALYITICAL USE
-    </div>
 </body>
 
 
